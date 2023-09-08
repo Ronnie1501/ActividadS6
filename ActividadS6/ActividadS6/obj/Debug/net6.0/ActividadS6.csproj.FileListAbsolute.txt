@@ -1,0 +1,15 @@
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\bin\Debug\net6.0\ActividadS6.exe
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\bin\Debug\net6.0\ActividadS6.deps.json
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\bin\Debug\net6.0\ActividadS6.runtimeconfig.json
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\bin\Debug\net6.0\ActividadS6.dll
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\bin\Debug\net6.0\ActividadS6.pdb
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\obj\Debug\net6.0\ActividadS6.csproj.AssemblyReference.cache
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\obj\Debug\net6.0\ActividadS6.GeneratedMSBuildEditorConfig.editorconfig
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\obj\Debug\net6.0\ActividadS6.AssemblyInfoInputs.cache
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\obj\Debug\net6.0\ActividadS6.AssemblyInfo.cs
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\obj\Debug\net6.0\ActividadS6.csproj.CoreCompileInputs.cache
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\obj\Debug\net6.0\ActividadS6.dll
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\obj\Debug\net6.0\refint\ActividadS6.dll
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\obj\Debug\net6.0\ActividadS6.pdb
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\obj\Debug\net6.0\ActividadS6.genruntimeconfig.cache
+E:\ronni\Documents\GitHub\ActividadS6\ActividadS6\ActividadS6\obj\Debug\net6.0\ref\ActividadS6.dll
